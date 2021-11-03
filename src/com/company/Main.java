@@ -40,6 +40,6 @@ public class Main {
         {
             System.out.println("Number " + num4 + " smallest ");
         }
-
+        System.out.print("The end");
     }
 }
